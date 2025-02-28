@@ -1,5 +1,6 @@
 {
-    "version": "11.2.0",
-    "update_url": "https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Zapret/main.exe",
-    "release_notes": "- Добавили разблокировку для ChatGPT, Grok, Spotify и других сайтов заблокированных для РФ.\n- Обновили кнопку запуска DPI. Теперь она скрывается когда программа запущена."
+    "version":"11.4.0",
+    "update_url":"https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Zapret/main.exe",
+    "updater_bat_url":"https://gitflic.ru/project/main1234/main1234/blob/raw?file=updater.bat",
+    "release_notes":"- Полностью сменили процесс автообновления (антивирусы больше не должны ругаться)\n- Изменили положение кнопок для автозапуска и старта запрета (теперь они в одном столбце и обе меняются динамически)\n- Добавили анонс секретного будущего пятничного обновления (скрытая функция, которую можете попробовать найти самостоятельно)"
 }
